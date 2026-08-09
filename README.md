@@ -207,8 +207,9 @@ Future versions of this project can include:
 
 ### 🔗 Connect With Me
 
-* GitHub: Add your GitHub profile link
-* LinkedIn: Add your LinkedIn profile link
+* GitHub: https://github.com/vibhav90-svg
+* LinkedIn: www.linkedin.com/in/vibhav-pandey-210556317
+  
 
 ---
 
